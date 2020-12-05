@@ -8,7 +8,7 @@
 - I’m open to **Remote Work Opportunities**
 - All of my projects are available at [GitHub](https://github.com/saifullahamin/repositories)
 - Reach me via [Email](mailto:saifullahaminkhan@gmail.com)
-- Know about my experiences [LinkedIn](https://linkedin.com/in/saifullah-amin)
+- Know about my experiences at [LinkedIn](https://linkedin.com/in/saifullah-amin)
 
 
 <h3 align="left">Languages and Tools:</h3>
