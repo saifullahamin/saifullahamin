@@ -41,7 +41,7 @@
  
  <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/saifullah-amin" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="saifullahamin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saifullah-amin" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="saifullahamin" height="30" width="40" /></a>
 <a href="https://fb.com/saifullahaminkhan" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="saifullahamin" height="30" width="40" /></a>
 <a href="https://twitter.com/saifullah_amin_" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="saifullahamin" height="30" width="40" /></a>
 </p>
