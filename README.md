@@ -6,7 +6,7 @@
 
 - I'm learning **Full Stack Development using MERN Stack, AWS & React Native**
 - I’m looking to work on **Remote Work Opportunities**
-- All of my projects are available at [GitHub](github.com/saifullahamin)
+- All of my projects are available at [GitHub](https://github.com/saifullahamin)
 - Ask me about **React, Web Development, Python & Java**
 - Reach me via [Email](mailto:saifullahaminkhan@gmail.com)
 - Know about my experiences [watch my LinkedIn](https://linkedin.com/in/saifullah-amin)
