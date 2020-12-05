@@ -5,15 +5,20 @@
 <br>
 <p align="center">
 - I'm learning **Full Stack Development using MERN Stack, AWS & React Native**
-
+</p>
+<p align="center">
 - I’m looking to work on **Remote Work Opportunities**
-
+</p>
+<p align="center">
 - All of my projects are available at [GitHub](github.com/saifullahamin)
-
+</p>
+<p align="center">
 - Ask me about **React, Web Development, Python & Java**
-
+</p>
+<p align="center">
 - Reach me via [Email](mailto:saifullahaminkhan@gmail.com)
-
+</p>
+<p align="center">
 - Know about my experiences [watch my LinkedIn](https://linkedin.com/in/saifullah-amin)
 </p>
 
