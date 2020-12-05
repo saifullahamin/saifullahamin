@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Saifullah Amin</h1>
-<hr>
 <h3 align="center">A student of BS-Software Engineering at Institute of Management Sciences, Peshawar</h3>
 
 <br>
