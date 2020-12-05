@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Saifullah Amin</h1>
+<hr>
 <h3 align="center">A student of BS-Software Engineering at Institute of Management Sciences, Peshawar</h3>
-<br>
-<p align="center"> <img src="https://pbs.twimg.com/profile_images/1025447760064143361/jE9gnu9r.jpg" alt="saifullahamin" width = 400px height = 450px /> </p>
+
 <br>
 
+- I know about **React, Web Development, Python & Java**
 - I'm learning **Full Stack Development using MERN Stack, AWS & React Native**
 - I’m looking to work on **Remote Work Opportunities**
 - All of my projects are available at [GitHub](https://github.com/saifullahamin)
-- Ask me about **React, Web Development, Python & Java**
 - Reach me via [Email](mailto:saifullahaminkhan@gmail.com)
 - Know about my experiences [watch my LinkedIn](https://linkedin.com/in/saifullah-amin)
 
