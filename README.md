@@ -29,8 +29,8 @@
  
  <p align="left">
 <h3 align="left">Connect with me:</h3>
-  <a href="https://twitter.com/saifullah_amin_" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="saifullahamin" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/saifullah-amin" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saifullahamin" height="30" width="40" /></a>
   <a href="https://fb.com/saifullahaminkhan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="saifullahamin" height="30" width="40" /></a>
   <a href="https://instagram.com/saifullah_amin" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saifullahamin" height="30" width="40" /></a>
+    <a href="https://twitter.com/saifullah_amin_" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="saifullahamin" height="30" width="40" /></a>
 </p>
