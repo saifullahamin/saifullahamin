@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saifullah Amin</h1>
-<h3 align="center">I am a student of Software Engineering</h3>
+<h3 align="center">I am a student of bachelors in software engineering</h3>
 <br>
 <p align="center"> <img src="https://pbs.twimg.com/profile_images/1025447760064143361/jE9gnu9r.jpg" alt="saifullahamin" width = 400px height = 450px /> </p>
 <br>
