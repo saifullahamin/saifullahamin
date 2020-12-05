@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saifullah Amin</h1>
-<h3 align="center">I am a student of BS Software Engineering at Institute of Management Sciences, Peshawar</h3>
+<h3 align="center">A student of BS-Software Engineering at Institute of Management Sciences, Peshawar</h3>
 <br>
 <p align="center"> <img src="https://pbs.twimg.com/profile_images/1025447760064143361/jE9gnu9r.jpg" alt="saifullahamin" width = 400px height = 450px /> </p>
 <br>
-
+<p align="center">
 - I'm learning **Full Stack Development using MERN Stack, AWS & React Native**
 
 - I’m looking to work on **Remote Work Opportunities**
@@ -15,7 +15,7 @@
 - Reach me via [Email](mailto:saifullahaminkhan@gmail.com)
 
 - Know about my experiences [watch my LinkedIn](https://linkedin.com/in/saifullah-amin)
-
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -24,7 +24,7 @@
 
 ---
 <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+ <summary><b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=saifullahamin&show_icons=true&theme=tokyonight&line_height=27">
@@ -32,10 +32,6 @@
 </p>
 </details>
 
-<details> 
-  <summary> 🏆 <b>My trophy stats so far</b>: </summary>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifullahamin" alt="saifullahamin" /></a></p>
-</details>
  
  <p align="left">
 <h3 align="left">Connect with me:</h3>
