@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saifullah Amin</h1>
 <h3 align="center">I am a student of Software Engineering</h3>
-
-<p align="center"> <img src="https://pbs.twimg.com/profile_images/1025447760064143361/jE9gnu9r.jpg" alt="saifullahamin" width = 400px height = 450px border-radius = 50px /> </p>
-
+<br>
+<p align="center"> <img src="https://pbs.twimg.com/profile_images/1025447760064143361/jE9gnu9r.jpg" alt="saifullahamin" width = 400px height = 450px /> </p>
+<br>
 - 🌐 I currently represent NUST at all 3 squares, i.e as a **DSC Lead, Microsoft Learn Student, and AWS Educate Cloud Ambassador**
 
 - 🔭 I’m currently working on **my own Market products**
