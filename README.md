@@ -4,7 +4,7 @@
 <br>
 
 - I am good at **React, Web Development, Python, & Java**
-- I'm learning **Full Stack Development using MERN Stack, AWS, & React Native**
+- I'm learning & focusing on **MERN Stack, AWS, & React Native**
 - I’m open to **Remote Work Opportunities**
 - All of my projects are available at [GitHub](https://github.com/saifullahamin/repositories)
 - Reach me via [Email](mailto:saifullahaminkhan@gmail.com)
