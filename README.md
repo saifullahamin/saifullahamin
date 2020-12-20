@@ -4,7 +4,7 @@
 <br>
 
 - I am good at **React, Web Development, Python, & Java**
-- I'm learning & focusing on **ReactJS, NodeJS, MongoDB & AWS**
+- I'm learning & focusing on **MERN Stack & AWS**
 - I’m open to **Remote Work Opportunities**
 - All of my projects are available at [GitHub](https://github.com/saifullahamin/repositories)
 - Reach me via [Email](mailto:saifullahaminkhan@gmail.com)
