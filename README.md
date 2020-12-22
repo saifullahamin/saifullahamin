@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saifullahamin&label=Profile%20views&color=red&style=flat" /></p>
 <br>
 
-- I am good at **React, JS, Python, Java & Web Development**
+- I am good at **React, JS, Python, Java, & Web Development**
 - I'm learning & focusing on **MERN Stack & AWS**
 - I’m open to **Remote Work Opportunities**
 - All of my projects are available at [GitHub](https://github.com/saifullahamin/repositories)
