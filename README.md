@@ -2,14 +2,14 @@
 <h3 align="center">Student of BS-Software Engineering at the Institute of Management Sciences, Peshawar</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saifullahamin&label=Profile%20views&color=red&style=flat" /></p>
 <br>
-<p>
-- I am good at **React, JS, Python, & Frontend Development**
-- I'm learning & focusing on **Full Stack Development & Cloud Computing**
-- I’m open to **Remote Work Opportunities**
-- All of my projects are available at [GitHub](https://github.com/saifullahamin/repositories)
-- Reach me via [Email](mailto:saifullahaminkhan@gmail.com)
-- Know about my experiences at [LinkedIn](https://linkedin.com/in/saifullah-amin)
-</p>
+
+<p>- I am good at **React, JS, Python, & Frontend Development**</p>
+<p>- I'm learning & focusing on **Full Stack Development & Cloud Computing**</p>
+<p>- I’m open to **Remote Work Opportunities**</p>
+<p>- All of my projects are available at [GitHub](https://github.com/saifullahamin/repositories)</p>
+<p>- Reach me via [Email](mailto:saifullahaminkhan@gmail.com)</p>
+<p>- Know about my experiences at [LinkedIn](https://linkedin.com/in/saifullah-amin)</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
