@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saifullah Amin</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saifullahamin&label=Profile%20views&color=red&style=flat" /></p>
-<h3 align="center">Student of BS-Software Engineering at the Institute of Management Sciences, Peshawar</h3>
+<h3>Student of BS-Software Engineering at the Institute of Management Sciences, Peshawar</h3>
 <br>
 
 - I am good at **React, JS, Python, & Frontend Development**
