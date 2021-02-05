@@ -3,14 +3,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saifullahamin&label=Profile%20views&color=red&style=flat" /></p>
 <br>
 
-<div>
 - I am good at **React, JS, Python, & Frontend Development**
 - I'm learning & focusing on **Full Stack Development & Cloud Computing**
 - I’m open to **Remote Work Opportunities**
 - All of my projects are available at [GitHub](https://github.com/saifullahamin/repositories)
 - Reach me via [Email](mailto:saifullahaminkhan@gmail.com)
 - Know about my experiences at [LinkedIn](https://linkedin.com/in/saifullah-amin)
-</div>
 
 <h3 align="left">Languages and Tools:</h3>
 
